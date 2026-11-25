@@ -1,0 +1,11 @@
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.xlsx
+*.xls
+*.csv
+*.zip
+node_modules/
+.DS_Store
